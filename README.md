@@ -23,3 +23,4 @@
 * 🫀 Heart
 * 🥰 In love
 
+[CLI commands](Docs/Cli.md)
